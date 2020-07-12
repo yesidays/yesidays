@@ -5,7 +5,7 @@ My name is Yesi and I'm originally from México.
 I am a Data Scientist and I have experience with Web development, it is one of my biggest passions. 
 I have a PhD in Artificial Intelligence, I focused on data mining and multi-agent systems.
 
-🌎 ### Get in touch around the Web:
+### Get in touch around the Web 🌎:
 
 📺 I like to share knowledge on my [YouTube](https://www.youtube.com/user/silvercorp) channel 
 📷 Publishing pics about kittens and my life on [Instagram](https://www.instagram.com/yesidaysb)
