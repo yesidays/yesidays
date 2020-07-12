@@ -7,10 +7,12 @@ I have a PhD in Artificial Intelligence, I focused on data mining and multi-agen
 
 ### Get in touch around the Web 🌎:
 
-📺 I like to share knowledge on my [YouTube](https://www.youtube.com/user/silvercorp) channel 
-📷 Publishing pics about kittens and my life on [Instagram](https://www.instagram.com/yesidaysb)
-🐦 Writing ideas and useful information on [Twitter](https://www.twitter.com/silvercorp)
-📝 And my personal [blog](https://www.yesidays.tech)
+- 📺 I like to share knowledge on my [YouTube](https://www.youtube.com/user/silvercorp) channel 
+- 📷 Publishing pics about kittens and my life on [Instagram](https://www.instagram.com/yesidaysb)
+- 🐦 Writing ideas and useful information on [Twitter](https://www.twitter.com/silvercorp)
+- 📝 And my personal [blog](https://www.yesidays.tech)
+
+### A little more 🤓
 
 - 🔭 I’m currently working on recommendation systems.
 - 🌱 I’m currently improve my skills of Data structures.
