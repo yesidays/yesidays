@@ -5,6 +5,8 @@ My name is Yesi and I'm originally from México.
 I am a Data Scientist and I have experience with Web development, it is one of my biggest passions. 
 I have a PhD in Artificial Intelligence, I focused on data mining and multi-agent systems.
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yesidays&show_icons=true&theme=dracula&count_private=true&layout=compact)
+
 ### Get in touch around the Web 🌎:
 
 - 📺 I like to share knowledge on my [YouTube](https://www.youtube.com/user/silvercorp) channel 
@@ -15,10 +17,10 @@ I have a PhD in Artificial Intelligence, I focused on data mining and multi-agen
 ### A little more 🤓
 
 - 🔭 I’m currently working on recommendation systems.
-- 🌱 I’m currently improve my skills of Data structures.
+- 🌱 Improve my skills of Data structures.
 - 💬 Ask me about Machine Learning
 - ⚡ Fun fact: I love kittens, mexican food and sports.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesidays)](https://github.com/yesidays/github-readme-stats)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yesidays&show_icons=true&theme=dracula&count_private=true&layout=compact)
+
