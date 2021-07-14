@@ -18,3 +18,5 @@ I have a PhD in Artificial Intelligence, I focused on data mining and multi-agen
 - 🌱 I’m currently improve my skills of Data structures.
 - 💬 Ask me about Machine Learning
 - ⚡ Fun fact: I love kittens, mexican food and sports.
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yesidays&show_icons=true&theme=onedark&count_private=true)
