@@ -3,7 +3,7 @@
 My name is Yesi and I'm originally from México.
 
 I am a Data Scientist and I have experience with Web development, it is one of my biggest passions. 
-I have a PhD in Artificial Intelligence, I focused on data mining and multi-agent systems.
+I have a PhD in Artificial Intelligence, I focused on data mining and multi-agent systems. 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yesidays&show_icons=true&theme=dracula&count_private=true&layout=compact)
 
@@ -16,9 +16,10 @@ I have a PhD in Artificial Intelligence, I focused on data mining and multi-agen
 
 ### A little more 🤓
 
-- 🔭 I’m currently working on recommendation systems.
+- 🔭 I’m currently working on recommender systems.
 - 🌱 Improve my skills of Data structures.
-- 💬 Ask me about Machine Learning
+- 💬 Ask me about Data Scientist and Machine Learning
+- ❤️ One of my most valuable projects, [Data scientist Path](https://ds-path.netlify.app/)
 - ⚡ Fun fact: I love kittens, mexican food and sports.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesidays&theme=dracula)](https://github.com/yesidays/github-readme-stats)
