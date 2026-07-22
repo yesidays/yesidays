@@ -6,7 +6,7 @@ on:
   # Te deja correrlo a mano desde la pestaña Actions (útil para el primer run)
   workflow_dispatch:
   # Regenera cuando haces push a main
-  push: {branches: ["main"]}
+  push: {branches: ["master"]}
 
 jobs:
   github-metrics:
@@ -33,7 +33,6 @@ jobs:
           # Descomenta la siguiente línea si tu top-langs sale dominado por notebooks/HTML:
           # plugin_languages_ignored: html, jupyter notebook
 
-          # --- Calendario de contribuciones isométrico (reemplaza el streak) ---
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
 
