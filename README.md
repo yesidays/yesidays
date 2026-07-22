@@ -26,18 +26,18 @@ PhD in Artificial Intelligence and Google Developer Expert in Machine Learning. 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=yesidays&theme=dracula&hide_border=true" />
+  </a>
+</p>
+
 ---
 
 #### 📊 GitHub Stats
 
 <p align="center">
   <img src="github-metrics.svg" alt="Yesi's GitHub metrics" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=yesidays&theme=dracula&hide_border=true" />
-  </a>
 </p>
 
 ---
