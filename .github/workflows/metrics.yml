@@ -37,9 +37,3 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # --- Hábitos: cuándo y cómo commiteas ---
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
