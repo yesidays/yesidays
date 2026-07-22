@@ -34,5 +34,5 @@ jobs:
           # plugin_languages_ignored: html, jupyter notebook
 
           plugin_calendar: yes
-          plugin_calendar_limit: 0
+          plugin_calendar_limit: 2
 
